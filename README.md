@@ -45,13 +45,24 @@ For more information about MetaMask, click [here](https://metamask.io/)
 
 The following are images of the deployed contract and subsequent deposit into the Ganache account:
 
+
+KaseiCoin Code
+
 ![KaseiCoin Code](https://github.com/EmilyBertani/Challenge_21/blob/main/Evaluation%20Evidence/KaseiCoin_screenshot.png)
+
+KaseiCoin Crowdsale Code
 
 ![KaseiCoin Crowdsale Code](https://github.com/EmilyBertani/Challenge_21/blob/main/Evaluation%20Evidence/KaseiCoinCrowdsale_screenshot.png)
 
+KaseiCoin deployed
+
 ![KaseiCoin deployed](https://github.com/EmilyBertani/Challenge_21/blob/main/Evaluation%20Evidence/KaseiCoin_deployed.png)
 
+KaseiCoin Crowdsale deployed
+
 ![KaseiCoin Crowdsale deployed](https://github.com/EmilyBertani/Challenge_21/blob/main/Evaluation%20Evidence/Kasei_crowdsale_deployed.png)
+
+Ganache Account
 
 ![Ganache Account](https://github.com/EmilyBertani/Challenge_21/blob/main/Evaluation%20Evidence/Transaction_success.png)
 
